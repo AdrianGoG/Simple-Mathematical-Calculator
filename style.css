@@ -1,0 +1,77 @@
+body{
+	background-image: url(bg.jpg);
+	background-position: center;
+}
+
+
+form{
+	width: 500px;
+	height: 250px;
+	border: 1px solid gray;
+	background-color: #4d1a00;
+	border-radius: 20px; 
+}
+
+#assembly {
+	text-align: center;
+	margin-top: 10px;
+	margin-left: 80px;
+	float: left;
+}
+
+#assembly input{
+	color: blue;
+	text-align: center;
+	font-size: 15px;
+}
+
+h1{
+	text-align: center;
+	color: white;
+}
+
+h3{
+	text-align: center;
+	color: white;
+}
+
+
+#substraction {
+	float: right;
+	margin-top: 10px;
+	margin-right: 80px;
+	text-align: center;
+}
+
+#substraction input{
+	text-align: center;
+	color: blue;
+	font-size: 15px;
+}
+
+
+#multiplication {
+	margin-top: 100px;
+	float: left;
+	margin-left: 80px;
+	text-align: center;
+}
+
+#multiplication input{
+	text-align: center;
+	color: blue;
+	font-size: 15px;
+}
+
+#division{
+	margin-top: 100px;
+	float: right;
+	margin-right: 80px;
+	text-align: center;
+}
+
+#division input{
+	text-align: center;
+	color: blue;
+	font-size: 15px;
+}
